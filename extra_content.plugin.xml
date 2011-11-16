@@ -5,7 +5,6 @@
 	<version>1.0</version>
 	<url>http://habariproject.org</url>
 	<author url="http://habariproject.org/">The Habari Community</author>
-	<license>Apache License 2.0</license>
 	<description><![CDATA[Display one additional textarea on the entry publish page.]]></description>
 	<copyright>2010</copyright>
 	<guid>1b39ce6e-3576-49ca-aa45-326688720711</guid>
